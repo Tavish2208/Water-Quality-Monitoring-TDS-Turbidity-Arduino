@@ -40,3 +40,7 @@ This project implements a **real-time water quality monitoring system** using **
 2. **Calibrate** sensors using known water samples.
 3. **Upload** the Arduino code.
 4. **Monitor** real-time TDS & turbidity values on the LCD.
+
+## Results
+![image](https://github.com/user-attachments/assets/31809dc2-9974-4e8d-a5ee-24845a0272ab)
+
